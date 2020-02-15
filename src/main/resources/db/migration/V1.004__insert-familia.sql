@@ -1,0 +1,25 @@
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('ACTINIDACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('ANACARDIACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('ANNONACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('APOCYNACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('ARECACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('BROMELIACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('CARICACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('CUCURBITACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('EBENACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('FABACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('LAURACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('MALPIGHIACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('MIMOSACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('MORACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('MUSACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('MYRTACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('OXALIDACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('PASSIFLORACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('PUNICACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('ROSACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('RUTACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('SAPOTACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('STERCULIACEAE');
+INSERT INTO pgd.tb_familia_fruta (nome) VALUES ('VITACEAE');
+
